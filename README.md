@@ -11,3 +11,7 @@ As part of the project, I will also engage in a peer-review process, receiving v
 
 Throughout this Capstone Project, I will develop essential skills such as project proposal development, data selection, exploratory analysis, descriptive statistics, advanced SQL techniques, and effective data presentation. By completing this project, I will not only demonstrate my proficiency in SQL and data analysis but also create a portfolio-worthy piece that showcases my ability to apply SQL skills to real-world business problems.
 ![image](https://github.com/Gurpreet17/SQL-for-Data-Science-Capstone-Project/assets/74424705/1004e65e-82b5-4d09-9600-18f53e39e274)
+
+Specialization Certificate
+![image](https://github.com/SQL-for-Data-Science-Specialization/SQL-for-Data-Science-Capstone-Project/assets/74424705/09e44bf4-f765-430c-947b-8b9a86e54c71)
+
